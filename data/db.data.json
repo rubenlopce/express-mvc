@@ -1,0 +1,23 @@
+{
+    "users": [{
+        "id": 1,
+        "username": "midgetSpinner",
+        "password": "lul"
+    }, {
+        "id": 2,
+        "username": "midgetpinner",
+        "password": "lul"
+    }, {
+        "id": 3,
+        "username": "midgetinner",
+        "password": "lul"
+    }, {
+        "id": 4,
+        "username": "midgetSinner",
+        "password": "lulzz"
+    }, {
+        "id": 4,
+        "username": "midSpinner",
+        "password": "lulzz"
+    }]
+}
